@@ -1,0 +1,38 @@
+.nav{
+    text-transform: uppercase;
+    display: inline-block;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+.nav:hover{
+    color: rgb(0, 117, 252);
+}
+.img{
+    margin-left: 25px;
+    margin-right: 25px;
+    height: 220px;
+    width: 350px;
+    display: inline-block;
+}
+div{
+    display: inline-block;
+}
+p{
+    box-sizing: 50px;
+}
+.button{
+    border-color: black;
+    background-color: white;
+    font-size: 25px;
+background-size: 10px, 25px;
+padding-bottom: 
+}
+
+
+
+
+
+
+
+
