@@ -1,0 +1,87 @@
+.nav{
+    text-transform: uppercase;
+    display: inline-block;
+    margin-left: 140px;
+    margin-right: 100px;
+}
+.nav:hover{
+    color: rgb(0, 117, 252);
+}
+.img{
+    margin-left: 25px;
+    margin-right: 25px;
+    /* height: 220px; */
+    width: 400px;
+}
+.title{
+    color: rgb(242, 245, 52);
+    text-transform: uppercase;
+    margin:0px;
+    margin-bottom: 23px;
+    font-weight: 3px;
+    
+}
+div{
+    display: inline-block;
+   /*  margin-right: 25px; произошло схопывание это теперь нам ненадо */
+    margin-bottom: 20px;
+    margin-left: 140px;
+    box-sizing: border-box;
+    border-color: coral;
+    border: 5px;
+    width:500px;
+}
+p{
+    width: 450px;
+}
+.button{
+    border-color: black;
+    background-color: white;
+    font-size: 25px;
+    margin: auto;
+    margin-left: 570px;
+    font-weight: 10px;
+    padding-right: 35px;
+    padding-left: 35px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+body{
+   margin-left: 25px;
+   margin-right: 25px;
+}
+.text_title{
+font-size: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
