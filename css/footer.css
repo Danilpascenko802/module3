@@ -1,0 +1,13 @@
+.button{
+    border-color: black;
+    background-color: white;
+    font-size: 25px;
+    margin: auto;
+    margin-left: 570px;
+    font-weight: 10px;
+    padding-right: 35px;
+    padding-left: 35px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'Playfair Display', serif;
+}

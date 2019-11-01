@@ -1,0 +1,15 @@
+.nav{
+    text-transform: uppercase;
+    display: inline-block;
+    margin-left: 140px;
+    margin-right: 100px;
+    font-weight: 600;
+    font-family: 'Playfair Display', serif;
+}
+.nav:hover{
+    color: rgb(0, 117, 252);
+}
+
+
+
+
