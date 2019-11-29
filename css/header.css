@@ -1,10 +1,14 @@
+.menu_dad{
+    text-align: center;
+    margin-bottom: 100px;
+}
 .nav{
     text-transform: uppercase;
     display: inline-block;
-    margin-left: 140px;
     margin-right: 100px;
     font-weight: 600;
-    font-family: 'Playfair Display', serif;
+    color: #626262;
+    font-size: 14px;
 }
 .nav:hover{
     color: rgb(0, 117, 252);
